@@ -117,11 +117,11 @@ nav ul {
 
 #skills li {
   font-size: 16px; /* Adjust text size */
-  color: #2b1591; /* Set text color */
+  color: #000000; /* Set text color */
   /*border: 1px solid #ddd;  Add a subtle border */
   padding: 5px 15px; /* Add padding inside each skill */
   border-radius: 10px; /* Make the borders rounded */
-  background-color: #f9f9f9; /* Add a light background color */
+  background-color: #1d29cc; /* Add a light background color */
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
   /*transition: transform 0.2s, background-color 0.2s; /* Smooth hover effect */
 }
