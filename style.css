@@ -44,7 +44,6 @@ nav ul {
   
   nav ul li a {
     color: #111383;
-    text-align: center;
     text-decoration: none;
     font-weight: bold;
   }
@@ -53,7 +52,7 @@ nav ul {
   section {
     padding: 20px 0;
     margin: 20px 0;
-    background: #fff;
+    background: #1b77a1;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
