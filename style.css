@@ -148,3 +148,9 @@ footer p {
   transform: scale(1.1);
   background-color: #005bb5; /* Darker shade on hover */
 }
+body {
+  background-image: url('background.jpg'); /* Replace with your image file path */
+  background-size: cover; /* Ensures the image covers the entire background */
+  background-repeat: no-repeat; /* Prevents the image from repeating */
+  background-position: center; /* Centers the image */
+}
