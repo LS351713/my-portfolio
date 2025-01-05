@@ -4,12 +4,12 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0;
-  background-image: url('DBL Overlays/0608_GokuSSGSS_608_BG_00.png'); /* Add your image path here */
-  background-size: cover; /* Ensure the image covers the entire background */
-  background-repeat: no-repeat; /* Prevent tiling of the image */
-  background-position: center; /* Center the image */
-  background-attachment: fixed; /* Makes the background fixed during scroll (optional) */
-  color: #333; /* Neutral text color */
+  background-color: #f0f8ff; /* Fallback light-blue color */
+  background-image: url('testimage.png'); /* Background photo */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: #333;
 }
 
 body.dark-mode {
