@@ -6,6 +6,10 @@ body {
   padding: 0;
   background-color: #f0f8ff; /* Soft light-blue background */
   color: #333; /* Neutral text color */
+  background-image: url('0608_GokuSSGSS_608_BG_00.png'); /* Replace with your image file path */
+  background-size: cover; /* Ensures the image covers the entire background */
+  background-repeat: no-repeat; /* Prevents the image from repeating */
+  background-position: center; /* Centers the image */
 }
 
 body.dark-mode {
@@ -147,10 +151,4 @@ footer p {
 #skills li:hover {
   transform: scale(1.1);
   background-color: #005bb5; /* Darker shade on hover */
-}
-body {
-  background-image: url('0608_GokuSSGSS_608_BG_00.png'); /* Replace with your image file path */
-  background-size: cover; /* Ensures the image covers the entire background */
-  background-repeat: no-repeat; /* Prevents the image from repeating */
-  background-position: center; /* Centers the image */
 }
