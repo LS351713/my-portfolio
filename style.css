@@ -4,7 +4,11 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0;
-  background-color: #f0f8ff; /* Soft light-blue background */
+  background-image: url('C:\Users\Luis\Desktop\drive-download-20231014T201903Z-001\DBL Overlays\testimage.png'); /* Add your image path here */
+  background-size: cover; /* Ensure the image covers the entire background */
+  background-repeat: no-repeat; /* Prevent tiling of the image */
+  background-position: center; /* Center the image */
+  background-attachment: fixed; /* Makes the background fixed during scroll (optional) */
   color: #333; /* Neutral text color */
 }
 
