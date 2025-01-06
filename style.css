@@ -66,7 +66,7 @@ nav ul li a:hover {
 section {
   padding: 20px;
   margin: 20px 0;
-  background: #e3f4ff; /* Soft blue gradient */
+  background: rgba(227, 244, 255, 0.8); /* Soft blue with 80% opacity */
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
 }
