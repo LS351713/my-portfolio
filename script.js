@@ -34,3 +34,34 @@ const test = function(a, b) {
     return a + b;
 }(3,5);
 console.log(test);
+
+const names = ["Joe", "Jane", "John"];
+const numbers1 = [20,99,3,4,5];
+
+names.forEach((x)=> (console.log(x)));
+skills.forEach((skill) => {
+    console.log(skill);
+});
+
+const squares = numbers.map((num) => num * num);
+console.log (squares);
+
+const evenNumbers = numbers.filter((num) => num % 2 === 0);
+console.log(evenNumbers);
+
+const sum2 = numbers.reduce((acc,num) => acc + num, 5);
+console.log(sum2)
+
+
+const firstEven = numbers.find((num) => num % 2 === 0);
+console.log(firstEven);
+
+numbers.sort((a,b) => b - a);
+console.log(numbers);
+// const aFunc = (acc, num) => acc + num;
+// const aFunc = (num) => num % 2 === '0';
+
+// const aFunc = (num) => num * num;
+// for (let i = 0; i < names.length; i++){
+   // console.log (names(i));
+// }

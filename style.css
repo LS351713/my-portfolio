@@ -8,7 +8,7 @@ body {
   background-size: cover; /* Ensure the image covers the entire background */
   background-repeat: no-repeat; /* Prevent tiling of the image */
   background-position: center; /* Center the image */
-  background-attachment: fixed; /* Makes the background fixed during scroll (optional) */
+ /* background-attachment: fixed; /* Makes the background fixed during scroll (optional) */
   color: #000000; /* Neutral text color */
 }
 
