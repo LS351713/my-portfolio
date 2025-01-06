@@ -58,6 +58,8 @@ console.log(firstEven);
 
 numbers.sort((a,b) => b - a);
 console.log(numbers);
+
+
 // const aFunc = (acc, num) => acc + num;
 // const aFunc = (num) => num % 2 === '0';
 
