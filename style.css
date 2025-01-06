@@ -75,6 +75,9 @@ section h2 {
   text-align: center;
   color: #005bb5;
   margin-bottom: 15px;
+  div {
+    opacity: 0.5;
+  }
 }
 
 section p {
