@@ -4,7 +4,7 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0;
-  background-image: url('https://dblegends.net/assets/card_arts/0608_GokuSSGSS_608/0608_GokuSSGSS_608_BG_00.png'); /* Add your image path here */
+  background-image: url(https://dblegends.net/assets/card_arts/0608_GokuSSGSS_608/0608_GokuSSGSS_608_BG_00.png); /* Add your image path here */
   background-size: cover; /* Ensure the image covers the entire background */
   background-repeat: no-repeat; /* Prevent tiling of the image */
   background-position: center; /* Center the image */
