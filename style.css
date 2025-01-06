@@ -9,7 +9,7 @@ body {
   background-repeat: no-repeat; /* Prevent tiling of the image */
   background-position: center; /* Center the image */
   background-attachment: fixed; /* Makes the background fixed during scroll (optional) */
-  color: #333; /* Neutral text color */
+  color: #000000; /* Neutral text color */
 }
 
 body.dark-mode {
